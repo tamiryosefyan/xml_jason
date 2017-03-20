@@ -1,0 +1,40 @@
+{"school"
+[
+{"class1":"תוכנה א בוקר"
+[
+{"studentName":"shalom","grades":
+[
+"math":90,"sport":80
+]
+}
+{"studentName":"dani","grades":
+[
+"math":90,"sport":80
+]}
+]}
+{"class2":"תוכנה א בוקר"
+[
+{"studentName":"shalom","grades":
+[
+"math":90,"sport":80
+]
+}
+{"studentName":"dani","grades":
+[
+"math":90,"sport":80
+]}
+]}
+{"class3":"תוכנה א בוקר"
+[
+{"studentName":"shalom","grades":
+[
+"math":90,"sport":80
+]
+}
+{"studentName":"dani","grades":
+[
+"math":90,"sport":80
+]}
+]}
+]
+}
